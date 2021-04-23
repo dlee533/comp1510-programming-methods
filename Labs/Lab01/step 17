@@ -1,0 +1,7 @@
+     Step 17. which of the following assignments are valid?4
+
+     x = 1 : this is the only valid assignment statement as a variable is assigned to an integer 1
+     x = y : by itself, it is invalid. 'y' has not been assigned any value
+     x = y + 2 : again, it is invalid for the same reason as above
+     x + 1 = 3 : it is a math equation
+     x + y = y + x : same as above
